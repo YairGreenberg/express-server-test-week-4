@@ -1,0 +1,20 @@
+[
+  {
+    "eventName": "prti",
+    "ticketsForSale": 5,
+    "username": "yair",
+    "password": "A101"
+  },
+  {
+    "eventName": "afterParti",
+    "ticketsForSale": 13,
+    "username": "yair",
+    "password": "A101"
+  },
+  {
+    "eventName": "bich",
+    "ticketsForSale": 50,
+    "username": "yossi",
+    "password": "A102"
+  }
+]
